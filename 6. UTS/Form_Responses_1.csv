@@ -1,0 +1,80 @@
+Timestamp,Nama,Umur,Universitas,Tinggi Badan,Berat Badan,avg tidur malam,avg tidur siang,begadang,jam tidur,kualitas tidur,jam bangun,set banyak alarm,tidur setelah bangun,Indeks BMI,label
+10/4/2023 11:11:50,ACHMAD AFFANDI FAUZAN,21,Universitas Airlangga,175,65,7,0,3,diatas pukul 23.00 malam,5,dibawah pukul 05.00 pagi,Ya,Ya,21.2244898,Normal
+10/4/2023 11:21:35,ha,20,Universitas Airlangga,150,42,6,2,2,sekitar pukul 21.00 - 23.00 malam,4,dibawah pukul 05.00 pagi,Ya,Ya,18.66666667,Normal
+10/4/2023 11:38:07,Air,20,Universitas Airlangga,170,60,6,0,5,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,20.76124567,Normal
+10/4/2023 11:48:44,,18,Universitas Indonesia,165,49,4,0,5,diatas pukul 23.00 malam,3,dibawah pukul 05.00 pagi,Tidak,Ya,17.99816345,Underweight
+10/4/2023 11:49:55,Naufal,21,Universitas Airlangga,174,62,4,1,5,diatas pukul 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,20.47826661,Normal
+10/4/2023 11:55:37,Ihsan ,18,Universitas Diponegoro ,162,58,6,0,2,sekitar pukul 21.00 - 23.00 malam,4,dibawah pukul 05.00 pagi,Ya,Ya,22.10028959,Normal
+10/4/2023 12:18:50,F,21,Universtas Airlangga,170,65,5,0,3,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,22.49134948,Normal
+10/4/2023 12:22:43,Nabila Rahmadaniar,18,Universitas Brawijaya,159,50,4,0,3,diatas pukul 23.00 malam,2,dibawah pukul 05.00 pagi,Tidak,Tidak,19.77769867,Normal
+10/4/2023 12:27:16,Cahyawati Adena Solihah ,18,Universitas Indonesia,155,48,7,0,2,sekitar pukul 21.00 - 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,19.97918835,Normal
+10/4/2023 14:48:31,Cannary,19,Universitas Airlangga,169,57,4,3,5,diatas pukul 23.00 malam,4,dibawah pukul 05.00 pagi,Tidak,Tidak,19.95728441,Normal
+10/4/2023 19:05:23,an,20,Airlangga ,158,65,6,0,5,diatas pukul 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,26.03749399,Overweight
+10/4/2023 20:40:11,ja,20,airlangga,165,48,6,0,1,sekitar pukul 21.00 - 23.00 malam,5,dibawah pukul 05.00 pagi,Tidak,Ya,17.63085399,Underweight
+10/5/2023 14:54:43,Erika,20,Universitas Airlangga ,158,43,4,0,5,diatas pukul 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,17.22480372,Underweight
+10/5/2023 15:12:36,brina,20,Universitas Airlangga ,155,60,5,2,5,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,24.97398543,Overweight
+10/6/2023 10:25:44,FTH,20,Universitas Airlangga,168,50,5,0,3,diatas pukul 23.00 malam,3,dibawah pukul 05.00 pagi,Ya,Ya,17.7154195,Underweight
+10/6/2023 14:18:52,Ridz,19,Universitas Airlangga,171,82,6,0,4,diatas pukul 23.00 malam,3,dibawah pukul 05.00 pagi,Tidak,Ya,28.04281659,Overweight
+10/6/2023 14:26:44,Reyhan,20,Unair,170,60,6,0-2,3,sekitar pukul 21.00 - 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,20.76124567,Normal
+10/6/2023 22:49:01,Coki,20,Universitas Airlangga ,170,60,7,0,5,diatas pukul 23.00 malam,4,diatas pukul 06.30 pagi,Tidak,Ya,20.76124567,Normal
+10/8/2023 10:55:08,Damar,20,Airlangga,176,80,6,1,2,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,25.82644628,Overweight
+10/8/2023 10:59:04,DD,20,Universitas Airlangga ,180,70,5,0,3,sekitar pukul 21.00 - 23.00 malam,3,dibawah pukul 05.00 pagi,Ya,Ya,21.60493827,Normal
+10/8/2023 10:59:13,Yohanes,20,Universitas airlangga,175,75,8,0,3,sekitar pukul 21.00 - 23.00 malam,5,diatas pukul 06.30 pagi,Tidak,Ya,24.48979592,Overweight
+10/8/2023 11:18:15,Rs,20,Universitas Airlangga ,165,80,7,1,2,sekitar pukul 21.00 - 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,29.38475666,Overweight
+10/8/2023 12:09:02,Ahmad,21,Universitas Airlangga,163,62,6,0,5,diatas pukul 23.00 malam,4,dibawah pukul 05.00 pagi,Ya,Ya,23.33546614,Overweight
+10/8/2023 13:20:10,🆒,20,Universitas Airlangga,178,52,6,0,5,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,16.41206918,Underweight
+10/8/2023 18:01:07,Zidan,19,Universitas Airlangga,170,60,5,1,4,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,20.76124567,Normal
+10/8/2023 18:45:11,Naftali SP,21,UNAIR,175,75,7,0,4,diatas pukul 23.00 malam,5,dibawah pukul 05.00 pagi,Ya,Tidak,24.48979592,Overweight
+10/8/2023 18:45:26,yoel,20,Airlangga,172,55,5,1,3,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,18.59113034,Normal
+10/8/2023 19:00:32,A,19,Unair,175,64,8,3,5,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,20.89795918,Normal
+10/8/2023 19:03:00,Farhan,20,Universitas Airlangga,167,55,4,0,3,sekitar pukul 21.00 - 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,19.72103697,Normal
+10/8/2023 19:31:35,Abram,20,Universitas Airlangga,171,74,5,1,5,diatas pukul 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,25.30693205,Overweight
+10/8/2023 20:14:37,JHN,19,Universitas Surabaya,155,42,4,0,5,diatas pukul 23.00 malam,4,dibawah pukul 05.00 pagi,Ya,Ya,17.4817898,Underweight
+10/8/2023 20:20:09,Denis,18,Universitas Surabaya,153,64,4,0,4,diatas pukul 23.00 malam,1,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,27.339912,Overweight
+10/8/2023 20:33:24,Farisi Abdul Aziz,20,IPB UNIVERSITY,182,70,6,2,5,diatas pukul 23.00 malam,4,diatas pukul 06.30 pagi,Tidak,Ya,21.13271344,Normal
+10/8/2023 20:41:50,Alvita Putri Andara,18,Universitas Surabaya,160,50,8,1,5,sekitar pukul 21.00 - 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,19.53125,Normal
+10/8/2023 20:42:46,Nazwa Anugerah Wulandari,19,Universitas Surabaya (UBAYA),152,46,4,0,5,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,19.9099723,Normal
+10/8/2023 20:54:35,MA,20,Universitas Airlangga,176,78,5,1,5,diatas pukul 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,25.18078512,Overweight
+10/8/2023 23:59:43,FS,21,Universitas Airlangga,167,73,4,1,3,diatas pukul 23.00 malam,4,dibawah pukul 05.00 pagi,Ya,Tidak,26.17519452,Overweight
+10/9/2023 10:20:35,ms,20,its,150,46,6,0,5,diatas pukul 23.00 malam,3,diatas pukul 06.30 pagi,Ya,Ya,20.44444444,Normal
+10/9/2023 10:22:34,MKA,19,Universitas Gunadarma,164,67,7,0,1,sekitar pukul 21.00 - 23.00 malam,4,dibawah pukul 05.00 pagi,Tidak,Tidak,24.9107674,Overweight
+10/9/2023 10:24:35,Defara Herena,20,Institut Teknologi Sepuluh Nopember,163,48,5,1,3,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,18.06616734,Underweight
+10/9/2023 10:26:43,,20,ITS,153,47,5,1,5,diatas pukul 23.00 malam,4,dibawah pukul 05.00 pagi,Tidak,Ya,20.07774787,Normal
+10/9/2023 10:27:52,LK,19,ITS Surabaya,150,55,5,1,5,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,24.44444444,Overweight
+10/9/2023 10:28:12,,20,ITS,157,43,5,3,2,diatas pukul 23.00 malam,3,diatas pukul 06.30 pagi,Ya,Ya,17.44492677,Underweight
+10/9/2023 10:31:26,yp,20,its,160,50,6,2,1,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Tidak,19.53125,Normal
+10/9/2023 10:31:49,Pat,20,UNAIR,172,55,6,0,4,diatas pukul 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,18.59113034,Normal
+10/9/2023 10:34:02,arya,21,unair,151,50,6,1,1,sekitar pukul 21.00 - 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,21.92886277,Normal
+10/9/2023 10:59:11,HPW,20,Institut teknologi sepuluh Nopember,165,50,6,2,5,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,18.36547291,Underweight
+10/9/2023 11:16:27,Akhtar Nawfal Rafif,20,Universitas Tarumanagara,165,75,5,0,5,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,27.54820937,Overweight
+10/9/2023 11:18:45,Syifa,20,Uin jakarta,156,50,6,0,2,sekitar pukul 21.00 - 23.00 malam,3,dibawah pukul 05.00 pagi,Tidak,Tidak,20.54569362,Normal
+10/9/2023 12:48:32,Wahyu Riyan,21,Airlangga,174,64,6,1,5,diatas pukul 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,21.13885586,Normal
+10/10/2023 7:36:29,Ad,20,Airlangga,180,80,5,0,3,diatas pukul 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Tidak,Tidak,24.69135802,Overweight
+10/10/2023 9:55:21,Nana,21,Universitas Airlangga,156,60,5,1,5,diatas pukul 23.00 malam,3,dibawah pukul 05.00 pagi,Ya,Ya,24.65483235,Overweight
+10/11/2023 9:34:08,ave,21,Unej,170,76,5,0,5,diatas pukul 23.00 malam,3,diatas pukul 06.30 pagi,Ya,Ya,26.29757785,Overweight
+10/11/2023 18:46:36,FE,19,Universitas Airlangga ,167,67,6,0,2,sekitar pukul 21.00 - 23.00 malam,3,dibawah pukul 05.00 pagi,Ya,Ya,24.02380867,Overweight
+10/17/2023 21:55:45,thomas,19,Binus,173,64,5,0,1,DIbawah pukul 21.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Tidak,Tidak,21.383942,Normal
+10/17/2023 21:57:16,kemol,20,Universitas Mataram,168,60,5,0,2,sekitar pukul 21.00 - 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,21.2585034,Normal
+10/17/2023 21:59:45,zack,21,Universitas Brawijaya,165,71,4,0,3,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,26.07897153,Overweight
+10/17/2023 22:00:41,divdiv,20,Universitas Mataram,173,67,5,0,2,sekitar pukul 21.00 - 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,22.38631428,Normal
+10/17/2023 22:02:06,faqih,21,Universitas Mataram,170,65,4,0,4,sekitar pukul 21.00 - 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Tidak,22.49134948,Normal
+10/17/2023 22:02:44,IKA,21,UNAIR,160,58,8,2,2,sekitar pukul 21.00 - 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,22.65625,Normal
+10/17/2023 22:04:59,KeiZ,21,Rhs,186,50,6,8,5,diatas pukul 23.00 malam,5,diatas pukul 06.30 pagi,Tidak,Ya,14.45253787,Underweight
+10/17/2023 22:09:57,Dimas Bagus,20,Universitas Sebelas Maret,172,60,5,1,4,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Tidak,20.2812331,Normal
+10/17/2023 22:10:05,Ucuppp ,20,Unesa,173,57,7,1,2,sekitar pukul 21.00 - 23.00 malam,5,dibawah pukul 05.00 pagi,Tidak,Ya,19.04507334,Normal
+10/17/2023 22:10:34,MS,21,UNU Blitar,170,80,5,2,3,diatas pukul 23.00 malam,3,diatas pukul 06.30 pagi,Ya,Ya,27.6816609,Overweight
+10/17/2023 22:12:18,Mpw,20,Universitas Katolik Widya Mandala,168,57,5,0,5,diatas pukul 23.00 malam,3,diatas pukul 06.30 pagi,Ya,Ya,20.19557823,Normal
+10/17/2023 22:15:48,Alfina,20,Universitas Negeri Surabaya ,155,40,4,0,3,diatas pukul 23.00 malam,2,dibawah pukul 05.00 pagi,Ya,Ya,16.64932362,Underweight
+10/17/2023 22:23:59,BKW,21,UM,160,40,6,1,5,sekitar pukul 21.00 - 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,15.625,Underweight
+10/17/2023 22:53:30,FSAS,21,UNESA,155,58,5,"2,5",4,sekitar pukul 21.00 - 23.00 malam,2,dibawah pukul 05.00 pagi,Ya,Ya,24.14151925,Overweight
+10/17/2023 23:21:23,Via Clarita Rajagukguk,20,"UPN "" Veteran"" Jawa Timur",156,60,6,2,5,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,24.65483235,Overweight
+10/18/2023 0:08:28,IK,21,-,163,55,5,0,4,diatas pukul 23.00 malam,3,diatas pukul 06.30 pagi,Tidak,Ya,20.70081674,Normal
+10/18/2023 4:55:01,MM,20,Universitas Terbuka,165,60,6,1/4,4,sekitar pukul 21.00 - 23.00 malam,4,dibawah pukul 05.00 pagi,Tidak,Ya,22.03856749,Normal
+10/18/2023 6:46:50,RM,20,-,175,90,7,0,1,sekitar pukul 21.00 - 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,29.3877551,Overweight
+10/18/2023 8:13:23,Melany Putri,20,Universitas Negeri Malang,150,47,6,3,4,sekitar pukul 21.00 - 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,20.88888889,Normal
+10/18/2023 8:13:38,SHALSA NEHA,21,UNIVERSITAS NUSANTARA PGRI KEDIRI,154,41,5,2,5,diatas pukul 23.00 malam,2,sekitar pukul 05.00 - 06.30 pagi,Tidak,Ya,17.2879069,Underweight
+10/18/2023 8:14:19,SR,21,Universitas Negeri Malang,152,54,6,1,2,sekitar pukul 21.00 - 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,23.37257618,Overweight
+10/18/2023 10:45:21,Putra,20,UNISKA,178,51,6,0,4,diatas pukul 23.00 malam,3,dibawah pukul 05.00 pagi,Ya,Ya,16.09645247,Underweight
+10/18/2023 11:15:22,Muhammad Fauzan Ramadhan,19,Unair,167,67,6,0,3,sekitar pukul 21.00 - 23.00 malam,3,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,24.02380867,Overweight
+10/18/2023 11:59:32,NA,21,Universitas Airlangga ,174,62,5,2,5,diatas pukul 23.00 malam,5,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,20.47826661,Normal
+10/18/2023 15:52:47,Kaylan Damar,20,Universitas Airlangga,177,75,6,1,3,diatas pukul 23.00 malam,4,sekitar pukul 05.00 - 06.30 pagi,Ya,Ya,23.93948099,Overweight
